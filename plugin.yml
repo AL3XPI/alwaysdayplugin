@@ -1,0 +1,7 @@
+name: alwaysdayplugin
+main: AL3XPI\pmmp\alwaysdayplugin\AlwaysDayPlugin
+version: 1.0.0
+api: 3.0.0
+author: AL3XPI
+description: "Always day plugin"
+website: https://github.com/AL3XPI/alwaysdayplugin
