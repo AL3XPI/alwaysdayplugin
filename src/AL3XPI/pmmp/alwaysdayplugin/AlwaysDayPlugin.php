@@ -1,4 +1,4 @@
-namespace yourname\myplugin;
+namespace AL3XPI/pmmp/alwaysdayplugin;
 use pocketmine\plugin\PluginBase;
 class MyPlugin extends PluginBase{
  $worldname = "world";
