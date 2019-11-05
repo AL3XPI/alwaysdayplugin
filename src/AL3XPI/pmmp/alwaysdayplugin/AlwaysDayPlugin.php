@@ -6,6 +6,6 @@ if (!$this->getServer()->isLevelLoaded($worldname)){
  $this->getServer()->loadLevel($worldname);
 }
 $level = $this->getServer()->getLevelByName($worldname);
-$level->setTime(0);
+$level->setTime(7000);
 $level->stopTime();
 }
